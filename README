@@ -2,6 +2,10 @@ NodeStrike Cryptographic Network Browser
 (CC0) VXN Universal
 ----------------
 Developed by some random nerds at VX, lol.
+<instructions>
+cd ~/NodeStrike
+./nw
+</instructions>
 <readme>
   The NodeStrike design was premeditated by VXN Medkit on 20 October 2014 to be a powerful alternative technology to the Deep Web, allowing for a dynamic multi-network technorealm consisting of a structure very similar to the modern web.
   NodeStrike was designed with three main points in mind:
